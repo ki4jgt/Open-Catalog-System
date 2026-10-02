@@ -1,18 +1,18 @@
-# Open Classification System (OCS)
+# Open Categorization System (OCS)
 
-The Open Classification System (OCS) is an open, community-driven effort to classify Internet domains by subject matter.
+The Open Categorization System (OCS) is an open, community-driven effort to classify Internet domains by subject matter.
 
 OCS treats the Internet as a library and domains as cataloged works. Rather than organizing websites by ownership, popularity, or search ranking, OCS organizes them according to the subjects they contain.
 
 ## Goals
 
-* Create an open classification standard for Internet domains
+* Create an open categorization standard for Internet domains
 * Provide a human-readable alternative to opaque categorization systems
 * Enable independent catalogs, search engines, archives, and directories
 * Encourage community participation in the organization of online knowledge
-* Build a classification system designed specifically for the Internet
+* Build a categorization system designed specifically for the Internet
 
-## Classification Format
+## Categorization Format
 
 OCS uses a hierarchical three-part subject code:
 
@@ -70,7 +70,7 @@ For example:
 
 ### Human Readable
 
-Classification codes are intended to be understandable without consulting large reference tables.
+Categorization codes are intended to be understandable without consulting large reference tables.
 
 ```text
 SOC.ANT.CUL
@@ -82,7 +82,7 @@ COM.NET.P2P
 
 No proprietary numbering systems.
 
-No copyrighted decimal classifications.
+No copyrighted decimal categorizations.
 
 No licensing requirements.
 
@@ -110,7 +110,7 @@ Areas of interest include:
 
 * Subject definitions
 * Taxonomy design
-* Classification guidelines
+* Categorization guidelines
 * Domain cataloging
 * Governance and standardization
 
