@@ -1,6 +1,6 @@
-# Open Categorization System (OCS)
+# Open Catalog System (OCS)
 
-The Open Categorization System (OCS) is an open, community-driven effort to classify Internet domains by subject matter.
+The Open Catalog System (OCS) is an open, community-driven effort to classify Internet domains by subject matter.
 
 OCS treats the Internet as a library and domains as cataloged works. Rather than organizing websites by ownership, popularity, or search ranking, OCS organizes them according to the subjects they contain.
 
