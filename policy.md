@@ -1,173 +1,86 @@
-# OCS Taxonomy Governance Policy
+Taxonomy Governance and Classification Policy
 
-## 1. Purpose
+1. Purpose
 
-The OCS taxonomy provides a structured system for organizing domains into coherent, reusable categories. Its purpose is to maximize the usefulness of domain groupings while minimizing unnecessary fragmentation, redundant classifications, and the proliferation of categories created for individual use cases.
+This policy establishes the principles governing the creation, organization, assignment, and ranking of categories and domains within the taxonomy. Its purpose is to maintain a coherent, consistent, and extensible classification system while minimizing unnecessary complexity and duplication.
 
-All decisions concerning category creation, domain placement, and domain ranking shall prioritize conceptual coherence, broad applicability, and consistency across the taxonomy.
+2. Inductive Classification
 
-## 2. Inductive Classification
+Categories shall be inductive rather than deductive. The taxonomy shall develop from the grouping and classification of domains according to their subject matter, rather than from an exhaustive set of predetermined categories.
 
-The taxonomy shall be developed **inductively rather than deductively**. Categories shall emerge from the identification and grouping of meaningful domains, recurring concepts, and substantive relationships.
+This approach is intended to maximize the number of domains that can be meaningfully grouped under existing categories while discouraging the creation of new categories for every individual use case, application, or perceived distinction.
 
-The taxonomy shall not attempt to enumerate every conceivable subject or create a separate category for every distinguishable concept or application. Instead, categories shall represent general-purpose groupings capable of accommodating multiple related domains and use cases.
+When evaluating a classification decision, preference shall be given to an existing category that adequately accommodates the domain. A new category should be introduced only when the existing taxonomy cannot reasonably represent the subject matter without compromising the coherence or usefulness of its classification.
 
-The following principles govern category formation:
+3. Category Creation and Revision
 
-- **Generalization over proliferation:** Prefer existing categories that accommodate multiple related domains over narrowly tailored categories designed for individual use cases.
-- **Meaningful grouping:** Categories must represent substantive relationships among their constituent domains.
-- **Necessity of distinction:** A concept's uniqueness does not, by itself, justify the creation of a new category.
-- **Reusability:** Categories should accommodate multiple related subjects and applications wherever their underlying subject matter supports such grouping.
-- **Evolution through demonstrated need:** New categories may be introduced when practical experience reveals a meaningful classification gap that existing categories cannot adequately address.
+The creation, subdivision, or restructuring of categories shall be guided by the overall integrity of the taxonomy.
 
-The burden of justification rests on the creation of a new category. The ability to distinguish one subject from another is insufficient grounds for establishing a separate classification.
+Before introducing a new category, decision-makers shall consider whether the proposed subject matter can be accommodated by an existing category or whether the apparent distinction is better represented at the domain level.
 
-## 3. Category Creation and Revision
+Categories should represent meaningful and reusable groupings, not individual use cases or arbitrary distinctions. Any proposed change should improve the taxonomy's organization, clarity, or capacity to accommodate domains.
 
-Before creating, splitting, merging, or relocating a category, decision-makers shall determine whether the proposed change materially improves the taxonomy.
+The addition of categories shall therefore be conservative and justified by a demonstrated need.
 
-Proposals shall be evaluated according to the following criteria:
+4. Domain Classification
 
-1. **Conceptual coherence:** Does the proposed category represent a meaningful grouping of related domains?
-2. **Distinctiveness:** Does it provide a substantive distinction not adequately represented by existing categories?
-3. **Generality:** Can it accommodate multiple related domains or use cases?
-4. **Necessity:** Can the subject be adequately classified within an existing category?
-5. **Structural consistency:** Does the change preserve the taxonomy's established hierarchy and naming conventions?
-6. **Net benefit:** Does the improvement in clarity and usability justify the additional complexity?
+Each domain shall be assigned to one category only: the category most appropriate to its particular subject matter.
 
-A new category shall be introduced only when existing categories cannot adequately represent the subject without compromising the taxonomy's coherence or usefulness.
+Classification shall be determined by the domain's primary subject matter rather than by every secondary relationship, practical application, or context in which it may be relevant. A domain's relevance to multiple fields does not, by itself, justify duplicating it across multiple categories.
 
-New top-level categories require particular scrutiny. A subject's interdisciplinary nature, broad relevance, or apparent uniqueness does not independently justify the creation of a new top-level category.
+Where a domain has legitimate relationships with other areas of the taxonomy, those relationships should not override the requirement for a single, best-fitting category assignment.
 
-Where an existing category provides a reasonable and accurate fit, that category shall be preferred.
+The objective is to preserve clear category boundaries, minimize duplication, and ensure that each domain has an unambiguous primary location within the taxonomy.
 
-## 4. Exclusive Domain Classification
+5. Domain Ranking
 
-Each domain shall be assigned to **the single category most appropriate to its particular subject matter**.
+Domains shall be ranked hierarchically within their assigned categories on a scale from 0 to 9. The rank shall reflect a single, combined assessment of the author's reputation or authority and the domain's cultural relevance.
 
-Classification shall be determined by the domain's defining subject, primary purpose, and substantive focus. A domain shall not be assigned to multiple categories merely because it has applications, implications, or relationships across different fields.
+Author authority and cultural relevance shall not be scored independently. They shall inform one overall judgment, from which a single rank is assigned. The ranking process is qualitative and shall not require separate component scores, weights, or arithmetic calculations.
 
-The following rules apply:
+The scale shall be interpreted as follows:
 
-- **Single primary placement:** Each domain shall have one primary category.
-- **Subject-matter precedence:** Classification shall reflect what the domain fundamentally concerns, rather than every context in which it may be used.
-- **No duplication for convenience:** A domain shall not be duplicated across categories to accommodate different audiences, applications, or organizational preferences.
-- **Best-fit selection:** Where several categories appear plausible, the category most directly aligned with the domain's defining subject matter shall be selected.
-- **Cross-domain relationships:** Where supported by the taxonomy, secondary relationships may be represented through references or links without duplicating the domain itself.
+Rank| Interpretation
+0| Neither culturally relevant nor authoritative
+1–3| Increasing degrees of combined cultural relevance and author authority, below the midpoint
+4| Fully culturally relevant or fully authoritative
+5–8| Increasing degrees of combined cultural relevance and author authority, above the midpoint
+9| Fully culturally relevant and fully authoritative
 
-For example, accessibility may involve law, public policy, physical infrastructure, social participation, and software engineering. A domain concerning legal accessibility obligations should be assigned to the most appropriate legal category, while a domain concerning accessible software implementation should be assigned to the most appropriate software category. Their shared subject does not justify assigning either domain to multiple categories.
+The intermediate ranks allow decision-makers to express their overall assessment with appropriate granularity. They are not tied to separate thresholds for cultural relevance or author authority.
 
-## 5. Hierarchical Domain Ranking
+Ranks shall determine the relative ordering of domains within each category. Higher-ranked domains shall precede lower-ranked domains. Equal ranks shall be treated as ties unless another established ordering convention applies.
 
-Domains shall be ranked **from 0 to 9 within their assigned categories** using a hierarchical scoring system consisting of two components:
+A rank represents a qualitative judgment of the combined considerations specified in this policy. It shall not be interpreted as an absolute measurement of truth, quality, or intrinsic worth.
 
-1. Cultural Relevance, scored from 0 to 4.
-2. Author Authority, scored from 5 to 9.
+6. Separation of Classification and Ranking
 
-Each component uses five ordered levels, corresponding to an underlying score from 1 to 5. The cultural relevance component occupies the lower half of the ranking scale, while author authority occupies the upper half.
+Category assignment and domain ranking serve distinct purposes and shall be determined independently.
 
-The final rank shall be calculated by adding the two component scores:
+- Classification determines where a domain belongs, based on the category most appropriate to its subject matter.
+- Ranking determines the relative order of domains within that category, based on the combined assessment of author authority and cultural relevance.
 
-**Final Rank = Cultural Relevance Points + Author Authority Points**
+A domain's rank shall not determine its category assignment. Likewise, category assignment shall not predetermine a domain's rank.
 
-### 5.1 Cultural Relevance: Points 0–4
+7. Consistency and Review
 
-Cultural relevance measures the significance of a domain within the cultural context in which the taxonomy is being used.
+Decisions shall be guided by the principles established in this policy. Where judgment is required, decision-makers should favor interpretations that preserve consistency, minimize unnecessary complexity, and improve the taxonomy's long-term usefulness.
 
-Its assessment should consider recognition, practical importance, social significance, and relevance to the concerns or practices of the applicable culture or community.
+Existing categories and domain assignments should be reconsidered when there is a substantive reason to believe that they no longer provide the most coherent classification. Revisions should improve the system as a whole rather than accommodate isolated preferences or individual use cases.
 
-| Points | Underlying score | Interpretation |
-|---:|---:|---|
-| 0 | 1 | Minimal cultural relevance |
-| 1 | 2 | Limited cultural relevance |
-| 2 | 3 | Moderate cultural relevance |
-| 3 | 4 | High cultural relevance |
-| 4 | 5 | Very high cultural relevance |
+8. Governing Principles
 
-Cultural relevance shall be evaluated in context. A domain's relevance may differ between cultures, communities, and periods; it should not be presumed universal.
+All taxonomy decisions shall follow these governing principles:
 
-### 5.2 Author Authority: Points 5–9
+1. Induction over deduction: Categories shall emerge from meaningful groupings of domains rather than from exhaustive advance specification.
+2. Reuse over proliferation: Existing categories shall be preferred when they adequately accommodate the subject matter.
+3. Single-category assignment: Each domain shall belong to the one category most appropriate to its particular subject matter.
+4. Combined qualitative ranking: Author authority and cultural relevance shall inform one instinctive assessment, producing a single rank from 0 to 9.
+5. Classification before ordering: Category membership shall be determined by subject matter, while ranking shall determine the relative order of domains within their categories.
+6. Coherence over individual preference: Decisions shall prioritize the consistency, clarity, and extensibility of the taxonomy as a whole.
 
-Author authority measures the relevant authority of the author responsible for establishing, describing, or contributing the domain.
+9. Final Decision Standard
 
-Its assessment should consider subject-matter expertise, demonstrated competence, credibility, and relevant standing within the field concerned.
+A taxonomy decision is justified when it improves the system's ability to organize domains coherently, uses existing categories wherever appropriate, assigns each domain to its single best-fitting category, and ranks domains according to the combined assessment defined in this policy.
 
-| Points | Underlying score | Interpretation |
-|---:|---:|---|
-| 5 | 1 | Minimal relevant authority |
-| 6 | 2 | Limited relevant authority |
-| 7 | 3 | Moderate relevant authority |
-| 8 | 4 | High relevant authority |
-| 9 | 5 | Very high relevant authority |
-
-Authority shall be evaluated relative to the domain's subject matter. Expertise or recognition in an unrelated field shall not automatically confer authority within the domain being assessed.
-
-### 5.3 Calculation and Interpretation
-
-The two component scores shall be added directly to produce the final rank. No additional weighting or averaging shall be applied.
-
-For calculation purposes, the cultural relevance points are used directly, while the author authority points are converted to their underlying scores by subtracting 4.
-
-\[
-R = C + A - 4
-\]
-
-Where:
-
-- \(R\) = Final rank, from 0 to 9.
-- \(C\) = Cultural relevance points, from 0 to 4.
-- \(A\) = Author authority points, from 5 to 9.
-
-This conversion ensures that the two five-level components combine into a ten-level ranking system without changing the relative order of either component.
-
-For example, a domain with cultural relevance points of 3 and author authority points of 8 receives a final rank of \(3 + 8 - 4 = 7\).
-
-The final rank shall be retained alongside both component scores to ensure transparency and allow the basis of the ranking to be reviewed.
-
-## 6. Hierarchical Ranking Within Categories
-
-Domain ranks shall be used to establish relative ordering within each domain's assigned category.
-
-Higher-ranked domains shall precede lower-ranked domains when ordering domains within the same category. Domains with equal final ranks shall be treated as tied unless an established secondary ordering rule applies.
-
-Ranks shall not be treated as universal comparisons between domains in different categories. A rank indicates the domain's relative standing under the specified criteria, not an absolute measure of truth, intrinsic worth, or importance across all fields.
-
-The ranking system shall not determine category membership. A domain's placement shall be determined by its subject matter, while its rank shall be determined by cultural relevance and author authority.
-
-## 7. Consistency, Transparency, and Review
-
-Taxonomy decisions and domain rankings shall be applied consistently across the classification system.
-
-When a classification is disputed, decision-makers shall compare the plausible categories and select the one that most accurately represents the domain's defining subject matter. Secondary associations shall not override the requirement for a single primary category.
-
-Proposals to create or substantially revise categories should document:
-
-- The classification problem being addressed.
-- Why existing categories are inadequate.
-- The proposed category's intended scope.
-- The benefits of the change relative to its additional complexity.
-- The effect of the change on existing classifications.
-
-Domain rankings shall retain both component scores and the final rank. Reassessment may be appropriate when cultural relevance, author authority, or supporting evidence materially changes.
-
-Where uncertainty or disagreement exists, the reasoning behind the decision should be documented so that subsequent decisions can be evaluated against the same principles.
-
-## 8. Governing Principles
-
-All taxonomy decisions shall adhere to the following principles:
-
-- **Induction over exhaustive deduction:** Categories emerge from meaningful groupings rather than exhaustive enumeration.
-- **Generalization over proliferation:** Existing categories are preferred when they adequately represent a domain.
-- **Exclusive primary classification:** Every domain belongs to the single category that best fits its subject matter.
-- **Conceptual coherence over convenience:** Changes must improve the taxonomy as a whole rather than merely accommodate isolated use cases.
-- **Hierarchical ranking:** Domains are ranked within their assigned categories using the specified cultural relevance and author authority components.
-- **Transparency in evaluation:** Component scores and calculated ranks shall be retained.
-- **Refinement through demonstrated need:** The taxonomy may evolve when practical experience reveals meaningful classification gaps.
-
-## 9. Final Decision Standard
-
-A taxonomy decision is justified when it improves the coherence, usability, or general applicability of the classification system without introducing unnecessary complexity or duplicating existing classifications.
-
-The preferred structure is the simplest coherent taxonomy that groups related domains effectively, assigns each domain to its single best-fitting category, and accommodates diverse use cases without requiring a new category for every distinct idea.
-
-The taxonomy shall grow in response to demonstrated classification needs and meaningful conceptual distinctions—not merely because a new subject, application, or use case can be identified.
+When competing interpretations are plausible, the preferred decision shall be the one that preserves the greatest degree of useful generalization without sacrificing meaningful distinctions.
